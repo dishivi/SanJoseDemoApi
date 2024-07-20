@@ -55,7 +55,7 @@
   ],
   "policy": [
     {
-      "curb_policy_id": "P-121",
+      "id": "P-121",
       "name": "Electric Vehicle Only",
       "priority": "Medium",
       "activity": "Parking",
@@ -94,7 +94,7 @@
       "time_of_day_end": "15:00"
     },
     {
-      "curb_policy_id": "P-122",
+      "id": "P-122",
       "name": "18 wheeler Loading Only",
       "priority": "Low",
       "activity": "Unloading",
@@ -136,7 +136,7 @@
       "time_of_day_end": "08:00"
     },
     {
-      "curb_policy_id": "P-123",
+      "id": "P-123",
       "name": "5 minute Stop",
       "priority": "Low",
       "activity": "Unloading",
@@ -178,7 +178,7 @@
       "time_of_day_end": "08:00"
     },
     {
-      "curb_policy_id": "P-124",
+      "id": "P-124",
       "name": "Freight Loading Unloading Only",
       "priority": "High",
       "activity": "Unloading",
@@ -220,7 +220,7 @@
       "time_of_day_end": "08:00"
     },
     {
-      "curb_policy_id": "P-125",
+      "id": "P-125",
       "name": "4 wheeler only",
       "priority": "High",
       "activity": "Unloading",

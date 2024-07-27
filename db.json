@@ -1,61 +1,13 @@
 {
   "space": [
-    {
-      "id": "DOT-CURB-0000000003",
-      "city": "San Jose",
-      "color": "#dca08e",
-      "length": "43.0389523052814",
-      "notes": "OG",
-      "policy": "P-122",
-      "polygon": [
-        {
-          "lat": 37.33480440094949,
-          "lng": -121.8866078655191
-        },
-        {
-          "lat": 37.33470287081938,
-          "lng": -121.8865320578067
-        }
-      ],
-      "street": "S 3rd St",
-      "zone": "Z-313",
-      "availabilityTime": "Since 24 Days",
-      "postalCode": "432113",
-      "region": "R-22",
-      "spaceNumber": "2",
-      "width": "10.5"
-    }
+    
   ],
   "zone": [
-    {
-      "id": "DOT-CURB-0000000003",
-      "city": "San Jose",
-      "color": "#dca08e",
-      "length": "43.0389523052814",
-      "notes": "OG",
-      "policy": "P-122",
-      "polygon": [
-        {
-          "lat": 37.33480440094949,
-          "lng": -121.8866078655191
-        },
-        {
-          "lat": 37.33470287081938,
-          "lng": -121.8865320578067
-        }
-      ],
-      "street": "S 3rd St",
-      "zone": null,
-      "availabilityTime": "Since 24 Days",
-      "postalCode": "432113",
-      "region": "R-22",
-      "spaceNumber": "2",
-      "width": "10.5"
-    }
+    
   ],
   "policy": [
     {
-      "id": "P-121",
+      "id": "Policy001",
       "name": "Electric Vehicle Only",
       "priority": "Medium",
       "activity": "Parking",
@@ -94,7 +46,7 @@
       "time_of_day_end": "15:00"
     },
     {
-      "id": "P-122",
+      "id": "Policy002",
       "name": "18 wheeler Loading Only",
       "priority": "Low",
       "activity": "Unloading",
@@ -136,7 +88,7 @@
       "time_of_day_end": "08:00"
     },
     {
-      "id": "P-123",
+      "id": "Policy003",
       "name": "5 minute Stop",
       "priority": "Low",
       "activity": "Unloading",
@@ -178,7 +130,7 @@
       "time_of_day_end": "08:00"
     },
     {
-      "id": "P-124",
+      "id": "Policy004",
       "name": "Freight Loading Unloading Only",
       "priority": "High",
       "activity": "Unloading",
@@ -220,7 +172,7 @@
       "time_of_day_end": "08:00"
     },
     {
-      "id": "P-125",
+      "id": "Policy005",
       "name": "4 wheeler only",
       "priority": "High",
       "activity": "Unloading",
